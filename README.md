@@ -1,4 +1,4 @@
-# Sistema de Controle de Diabetes
+# 📱 Sistema de Controle de Diabetes
 
 Sistema web simples para monitoramento de diabetes, desenvolvido com PHP e MySQL. Permite registrar pacientes, medicamentos e medições de glicemia, além de calcular o IMC básico.
 
