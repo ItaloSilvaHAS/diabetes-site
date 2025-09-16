@@ -91,9 +91,8 @@ Contribuições são bem-vindas! Faça um fork, crie sua branch, envie um Pull R
 
 ## 📫 Contato
 
-- Seu nome ou nickname  
-- Email: seuemail@exemplo.com  
-- LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
+- Ítalo S.  
+- Email: italo.ss2007@gmail.com  
 
 ---
 
