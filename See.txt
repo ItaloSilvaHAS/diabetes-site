@@ -1,0 +1,4 @@
+Start: Apache & Mysql in XAMPP
+
+
+Acessar: http://localhost/MEUSITE/arquivo.php
